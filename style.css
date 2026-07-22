@@ -309,3 +309,33 @@ max-height:90%;
 border-radius:10px;
 
   }
+.whatsapp{
+
+position:fixed;
+
+right:20px;
+bottom:20px;
+
+background:#25D366;
+color:white;
+
+padding:15px 22px;
+
+border-radius:50px;
+
+text-decoration:none;
+
+font-weight:bold;
+
+box-shadow:0 10px 30px rgba(0,0,0,.2);
+
+z-index:100;
+
+}
+
+
+.whatsapp:hover{
+
+transform:scale(1.05);
+
+  }
